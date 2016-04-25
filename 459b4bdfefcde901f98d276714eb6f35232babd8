@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_2a32ee10",
+        "filename": "Menu.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1007604
+      },
+      "writtenOn": "2016-04-25T08:41:14Z",
+      "side": 1,
+      "message": "ТАК НЕКТО НЕ ПИШЕТ\nrecordButton",
+      "revId": "459b4bdfefcde901f98d276714eb6f35232babd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_0a35eaf5",
+        "filename": "Menu.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1007604
+      },
+      "writtenOn": "2016-04-25T08:41:14Z",
+      "side": 1,
+      "message": "аналогично",
+      "revId": "459b4bdfefcde901f98d276714eb6f35232babd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_ca3ee2d9",
+        "filename": "Menu.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 1007604
+      },
+      "writtenOn": "2016-04-25T08:41:14Z",
+      "side": 1,
+      "message": "моде",
+      "revId": "459b4bdfefcde901f98d276714eb6f35232babd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
